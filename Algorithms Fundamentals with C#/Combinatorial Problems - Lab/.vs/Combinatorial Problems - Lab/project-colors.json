@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a737f358-c317-4b38-af7c-2a79a73bcc38": {
+      "ProjectGuid": "a737f358-c317-4b38-af7c-2a79a73bcc38",
+      "DisplayName": "01. Permutations without Repetition",
+      "ColorIndex": 0
+    },
+    "fd74a1a7-f0e1-40d3-95e8-8461f802eca0": {
+      "ProjectGuid": "fd74a1a7-f0e1-40d3-95e8-8461f802eca0",
+      "DisplayName": "02. Permutations with Repetition",
+      "ColorIndex": 1
+    },
+    "7347eaf5-fdf0-4045-9ae3-559a497032fe": {
+      "ProjectGuid": "7347eaf5-fdf0-4045-9ae3-559a497032fe",
+      "DisplayName": "03. Variations without Repetition",
+      "ColorIndex": 2
+    },
+    "9b4f6d9c-6a0b-4f63-ba63-015578e0c5c6": {
+      "ProjectGuid": "9b4f6d9c-6a0b-4f63-ba63-015578e0c5c6",
+      "DisplayName": "04. Variations with Repetition",
+      "ColorIndex": 3
+    },
+    "6b4fb476-e701-47d5-974b-dd2d5d84f1ea": {
+      "ProjectGuid": "6b4fb476-e701-47d5-974b-dd2d5d84f1ea",
+      "DisplayName": "05. Combinations without Repetition",
+      "ColorIndex": 4
+    },
+    "14fc5d1d-d908-4816-be27-e4723ef4bf04": {
+      "ProjectGuid": "14fc5d1d-d908-4816-be27-e4723ef4bf04",
+      "DisplayName": "06. Combinations with Repetition",
+      "ColorIndex": 5
+    },
+    "bfbab7e9-4bd7-421d-8127-e7c648ee7d86": {
+      "ProjectGuid": "bfbab7e9-4bd7-421d-8127-e7c648ee7d86",
+      "DisplayName": "07. N Choose K Count",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
