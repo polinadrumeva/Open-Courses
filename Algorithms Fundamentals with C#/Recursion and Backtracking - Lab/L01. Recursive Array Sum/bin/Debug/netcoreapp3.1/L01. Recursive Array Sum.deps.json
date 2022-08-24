@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "L01. Recursive Array Sum/1.0.0": {
+        "runtime": {
+          "L01. Recursive Array Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L01. Recursive Array Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
