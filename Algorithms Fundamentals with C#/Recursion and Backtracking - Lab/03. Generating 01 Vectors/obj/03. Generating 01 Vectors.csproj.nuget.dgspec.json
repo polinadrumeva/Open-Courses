@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj": {}
+    "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj": {
+    "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj",
+        "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj",
         "projectName": "03. Generating 01 Vectors",
-        "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj",
+        "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\03. Generating 01 Vectors.csproj",
         "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\obj\\",
+        "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\03. Generating 01 Vectors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",

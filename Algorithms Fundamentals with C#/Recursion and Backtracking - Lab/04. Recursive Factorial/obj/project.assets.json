@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\04. Recursive Factorial\\04. Recursive Factorial.csproj",
+      "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\04. Recursive Factorial\\04. Recursive Factorial.csproj",
       "projectName": "04. Recursive Factorial",
-      "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\04. Recursive Factorial\\04. Recursive Factorial.csproj",
+      "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\04. Recursive Factorial\\04. Recursive Factorial.csproj",
       "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\04. Recursive Factorial\\obj\\",
+      "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\04. Recursive Factorial\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",

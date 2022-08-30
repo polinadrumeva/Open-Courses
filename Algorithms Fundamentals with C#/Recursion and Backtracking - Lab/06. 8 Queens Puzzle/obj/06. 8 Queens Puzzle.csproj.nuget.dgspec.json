@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj": {}
+    "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj": {
+    "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj",
+        "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj",
         "projectName": "06. 8 Queens Puzzle",
-        "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj",
+        "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj",
         "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\obj\\",
+        "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",

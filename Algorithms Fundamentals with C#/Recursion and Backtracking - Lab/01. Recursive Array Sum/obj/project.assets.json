@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\01. Recursive Array Sum\\01. Recursive Array Sum.csproj",
+      "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\01. Recursive Array Sum\\01. Recursive Array Sum.csproj",
       "projectName": "01. Recursive Array Sum",
-      "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\01. Recursive Array Sum\\01. Recursive Array Sum.csproj",
+      "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\01. Recursive Array Sum\\01. Recursive Array Sum.csproj",
       "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\01. Recursive Array Sum\\obj\\",
+      "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\01. Recursive Array Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXe9VaWOQSmmROQnUuaGkJZ6q7bgmfzbv3rFm5bEbFY2KraVhSdYUrzGJhtayuv+Hcn0or2ZxMAW18e0e91iPA==",
+  "dgSpecHash": "Zi48SZNE13Uj3J/l7ovVQJrNlZIv3IUHS5pHHv/+ntR3WqIo1irbKLPDAeMqtkNDrNa+AJDkfDrpdVchDvIc0w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj",
+  "projectFilePath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\06. 8 Queens Puzzle\\06. 8 Queens Puzzle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

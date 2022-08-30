@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\07. Recursive Fibonacci\\07. Recursive Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\07. Recursive Fibonacci\\07. Recursive Fibonacci.csproj",
       "projectName": "07. Recursive Fibonacci",
-      "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\07. Recursive Fibonacci\\07. Recursive Fibonacci.csproj",
+      "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\07. Recursive Fibonacci\\07. Recursive Fibonacci.csproj",
       "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Recursion and Backtracking - Lab\\07. Recursive Fibonacci\\obj\\",
+      "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Recursion and Backtracking - Lab\\07. Recursive Fibonacci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",
