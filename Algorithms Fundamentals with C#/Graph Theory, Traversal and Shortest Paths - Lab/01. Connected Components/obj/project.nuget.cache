@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9O5AObW6SvUwXb5e1uEISI5Vzm3rZI+3rXVnvsS2PMWHg1JZDUcHvBW9gWrXCwPEos+II3ND2+2gFZNkuLx6eA==",
+  "dgSpecHash": "wzs7M77x8shepQFcbirTiu7RTQZHpjVSlg9oUVWUUVT+XF4ITg9l1NRmQx9i7QRU9XBdBh9nart2VYH4k2tvZw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P.Drumeva\\source\\repos\\Graph Theory, Traversal and Shortest Paths - Lab\\01. Connected Components\\01. Connected Components.csproj",
+  "projectFilePath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Graph Theory, Traversal and Shortest Paths - Lab\\01. Connected Components\\01. Connected Components.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

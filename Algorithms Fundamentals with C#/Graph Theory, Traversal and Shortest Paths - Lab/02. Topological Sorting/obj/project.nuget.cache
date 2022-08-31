@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jpgk1bGQJWYl1SQ2LrXWNB52jutYkTuMNbxyGkl2kJr5GvDPL+NDgoGaU26pV45fgn0hLxqf1cbVb6Y+JAsoXg==",
+  "dgSpecHash": "UrASxY5LxRtQ+Z1L46+pYlWuERlF3opDXVNFnhLfUX7JD//nh13VrxS4m3+PZDIXuArCBhxdbnaeKZn1veZh8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P.Drumeva\\source\\repos\\Graph Theory, Traversal and Shortest Paths - Lab\\02. Topological Sorting\\02. Topological Sorting.csproj",
+  "projectFilePath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Graph Theory, Traversal and Shortest Paths - Lab\\02. Topological Sorting\\02. Topological Sorting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

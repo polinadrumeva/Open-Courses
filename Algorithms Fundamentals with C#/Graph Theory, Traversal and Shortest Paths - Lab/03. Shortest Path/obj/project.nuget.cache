@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6OCLT2z86FElDTDOpu9PchAGcB3xjKWTBTmYV5R0CgF8PIt4LAFbyUm3zhp2Gk1PXUGAtBb7gQ1JWSlNA484RQ==",
+  "dgSpecHash": "mk5sFzwf179nRw0f8Wqs0NW1F+0+fDVfA7m6mf3Yl/lxWA/7ckQwduvdb5BlgXyvmSUDte0VHrhpy6RN+4cqXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\P.Drumeva\\source\\repos\\Graph Theory, Traversal and Shortest Paths - Lab\\03. Shortest Path\\03. Shortest Path.csproj",
+  "projectFilePath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Graph Theory, Traversal and Shortest Paths - Lab\\03. Shortest Path\\03. Shortest Path.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
