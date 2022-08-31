@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\06. Combinations with Repetition\\06. Combinations with Repetition.csproj",
+      "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\06. Combinations with Repetition\\06. Combinations with Repetition.csproj",
       "projectName": "06. Combinations with Repetition",
-      "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\06. Combinations with Repetition\\06. Combinations with Repetition.csproj",
+      "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\06. Combinations with Repetition\\06. Combinations with Repetition.csproj",
       "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\06. Combinations with Repetition\\obj\\",
+      "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\06. Combinations with Repetition\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

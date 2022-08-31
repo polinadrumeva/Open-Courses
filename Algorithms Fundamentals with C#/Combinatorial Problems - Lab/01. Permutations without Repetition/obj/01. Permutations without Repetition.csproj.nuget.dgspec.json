@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj": {}
+    "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj": {
+    "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj",
+        "projectUniqueName": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj",
         "projectName": "01. Permutations without Repetition",
-        "projectPath": "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj",
+        "projectPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\01. Permutations without Repetition.csproj",
         "packagesPath": "C:\\Users\\P.Drumeva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\P.Drumeva\\source\\repos\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\obj\\",
+        "outputPath": "C:\\Users\\P.Drumeva\\Project\\Open-Courses\\Algorithms Fundamentals with C#\\Combinatorial Problems - Lab\\01. Permutations without Repetition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\P.Drumeva\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
