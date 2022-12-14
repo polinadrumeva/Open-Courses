@@ -2,12 +2,13 @@
 {
     using System;
     using System.Collections.Generic;
+    using System.Linq;
 
     public class Tree<T> : IAbstractTree<T>
     {
         private T Value;
         private Tree<T> parent;
-        private readonly List<Tree<T>> children;
+        private List<Tree<T>> children;
 
         public Tree(T value)
         {
@@ -106,7 +107,20 @@
 
         public void RemoveNode(T nodeKey)
         {
-            throw new NotImplementedException();
+            var node = FindNode(nodeKey);
+            if (node is null)
+            {
+                throw new ArgumentNullException();
+            }
+            var parentNode = node.parent;
+            if (parentNode! is null)
+            {
+                throw new ArgumentException();
+            }
+
+            parentNode.children = parentNode.children.Where(x => !x.Value.Equals(nodeKey)).ToList();
+
+            node.parent = null;
         }
 
         public void Swap(T firstKey, T secondKey)
