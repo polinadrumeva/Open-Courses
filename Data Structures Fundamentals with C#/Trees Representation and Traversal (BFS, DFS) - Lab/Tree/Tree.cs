@@ -27,7 +27,40 @@
 
         public void AddChild(T parentKey, Tree<T> child)
         {
-            throw new NotImplementedException();
+            var node = this.FindNode(parentKey);
+            if (node != null)
+            { 
+                node.children.Add(child);
+                child.parent = node;
+            }
+            else
+            {
+                throw new ArgumentNullException();
+            }
+        }
+
+        private Tree<T> FindNode(T parentKey)
+        {
+            var queue = new Queue<Tree<T>>();
+            queue.Enqueue(this);
+
+            while (queue.Count > 0)
+            {
+                var subtree = queue.Dequeue();
+
+
+                if (subtree.Value.Equals(parentKey))
+                {
+                    return subtree;
+                }
+
+                foreach (var ch in subtree.children)
+                {
+                    queue.Enqueue(ch);
+                }
+            }
+
+            return null;
         }
 
         public IEnumerable<T> OrderBfs()
