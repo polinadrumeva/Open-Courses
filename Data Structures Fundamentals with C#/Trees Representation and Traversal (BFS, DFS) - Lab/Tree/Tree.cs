@@ -125,7 +125,24 @@
 
         public void Swap(T firstKey, T secondKey)
         {
-            throw new NotImplementedException();
+            var first = this.FindNode(firstKey);
+            var second = this.FindNode(secondKey);
+            if (first is null || second is null)
+            {
+                throw new ArgumentNullException();
+            }
+            if (first.parent is null || second.parent is null)
+            {
+                throw new ArgumentException();
+            }
+
+            var indexFirst = first.parent.children.IndexOf(first);
+            var indexSecond = first.parent.children.IndexOf(second);
+
+            first.parent.children[indexFirst] = second;
+            second.parent = first.parent;
+            second.parent.children[indexSecond] = first;
+            first.parent = second.parent;
         }
     }
 }
