@@ -9,7 +9,10 @@
         public static void Main(string[] args)
         {
 
-            
+           var tree = new Tree<int>(50);
+            tree.AddChild(50, new Tree<int>(2));
+
+
         }
     }
 }
